@@ -1,0 +1,18 @@
+.center{
+    text-align:center;
+    color:greenyellow;
+}
+.grid-container{
+   text-align: center; 
+display:grid;
+
+
+}
+
+.calcbuttons{
+   font-size: 40px;
+   background-color: greenyellow;
+}
+body{
+    background-color:black
+}
